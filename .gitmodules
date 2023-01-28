@@ -1,0 +1,24 @@
+[submodule "cursorless"]
+	path = cursorless
+	url = git@github.com:cursorless-dev/cursorless.git
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = https://github.com/cursorless-dev/cursorless-talon.git
+[submodule "rango-talon"]
+	path = rango-talon
+	url = git@github.com:david-tejada/rango-talon.git
+[submodule "talon-axkit"]
+	path = talon-axkit
+	url = git@github.com:phillco/talon-axkit.git
+[submodule "knausj_talon"]
+	path = knausj_talon
+	url = git@github.com:knausj85/knausj_talon.git
+[submodule "talon_hud"]
+	path = talon_hud
+	url = git@github.com:chaosparrot/talon_hud.git
+[submodule "talon-gaze-ocr"]
+	path = talon-gaze-ocr
+	url = git@github.com:wolfmanstout/talon-gaze-ocr.git
+[submodule "dense-mouse-grid"]
+	path = dense-mouse-grid
+	url = git@github.com:tararoys/dense-mouse-grid.git
